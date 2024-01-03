@@ -1,3 +1,5 @@
+[![Continuous Integration](https://github.com/KrivanRaulAdrian/nasa-project/actions/workflows/node.yml/badge.svg?branch=master)](https://github.com/KrivanRaulAdrian/nasa-project/actions/workflows/node.yml)
+
 # NASA Mission Control Project
 
 ## Getting Started
@@ -20,6 +22,7 @@
 
 ## Running the Tests
 
-To run any automated tests, run `npm test`. This will: 
-* Run all the client-side tests: `npm test --prefix client`
-* Run all the server-side tests: `npm test --prefix server` 
+To run any automated tests, run `npm test`. This will:
+
+- Run all the client-side tests: `npm test --prefix client`
+- Run all the server-side tests: `npm test --prefix server`
